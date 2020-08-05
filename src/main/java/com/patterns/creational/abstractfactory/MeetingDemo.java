@@ -1,6 +1,6 @@
-package com.patterns.abstractfactory;
+package com.patterns.creational.abstractfactory;
 
-import com.patterns.abstractfactory.meeting.NationalityMeetingFactory;
+import com.patterns.creational.abstractfactory.meeting.NationalityMeetingFactory;
 
 public class MeetingDemo {
     public static void main(String[] args) {

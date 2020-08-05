@@ -1,4 +1,4 @@
-package com.patterns.abstractfactory;
+package com.patterns.creational.abstractfactory;
 
 public interface NationalityFactory {
     UkrainianNationality getUkrainianNationality();

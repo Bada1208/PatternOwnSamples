@@ -1,6 +1,6 @@
-package com.patterns.abstractfactory.meeting;
+package com.patterns.creational.abstractfactory.meeting;
 
-import com.patterns.abstractfactory.RussianNationality;
+import com.patterns.creational.abstractfactory.RussianNationality;
 
 public class Russian implements RussianNationality {
     @Override

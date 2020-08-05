@@ -1,4 +1,4 @@
-package com.patterns.singleton;
+package com.patterns.creational.singleton;
 
 class Singleton {
     private static Singleton single_instance = null;

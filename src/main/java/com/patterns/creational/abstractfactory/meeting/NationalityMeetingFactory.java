@@ -1,9 +1,9 @@
-package com.patterns.abstractfactory.meeting;
+package com.patterns.creational.abstractfactory.meeting;
 
-import com.patterns.abstractfactory.GermanNationality;
-import com.patterns.abstractfactory.NationalityFactory;
-import com.patterns.abstractfactory.RussianNationality;
-import com.patterns.abstractfactory.UkrainianNationality;
+import com.patterns.creational.abstractfactory.GermanNationality;
+import com.patterns.creational.abstractfactory.NationalityFactory;
+import com.patterns.creational.abstractfactory.RussianNationality;
+import com.patterns.creational.abstractfactory.UkrainianNationality;
 
 public class NationalityMeetingFactory implements NationalityFactory {
     @Override

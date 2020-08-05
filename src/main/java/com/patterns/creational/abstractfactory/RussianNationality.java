@@ -1,4 +1,4 @@
-package com.patterns.abstractfactory;
+package com.patterns.creational.abstractfactory;
 
 public interface RussianNationality {
     void getRussianTraditions();

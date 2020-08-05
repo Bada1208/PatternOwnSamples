@@ -1,4 +1,4 @@
-package com.patterns.factorymethod;
+package com.patterns.creational.factorymethod;
 
 public class Cooker implements Specialty{
     @Override
